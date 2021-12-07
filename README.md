@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL here](https://github.com/ncondes/rick-and-morty-spa-js-vanilla)
+- Live Site URL: [Live site URL here](https://ncondes.github.io/rick-and-morty-spa-js-vanilla/dist/)
 
 ## My process
 
